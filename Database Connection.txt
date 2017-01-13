@@ -1,0 +1,97 @@
+﻿
+============ Dev ===========================
+DB TASD DWH 
+
+172.255.152.85\glth
+
+USER : bitnb
+
+PASS : bi4tnb
+
+
+DB ETL Control
+
+172.255.152.85\glth
+
+USER : bietl
+
+PASS : bi4Etl
+
+Remote Dev Server
+IP : 172.255.152.55
+username : suppakorn.c
+PW : welcome@BI
+
+ETL Repo
+Username : suppakorn.c
+PW : welcome@RP
+
+=========== PRD ===========================
+DB
+ ETL Repo Control
+172.255.152.63
+User : bitnb
+Pass : bi4t@ds
+
+ETL Repo
+Username : admin
+Password : admin
+
+172.255.152.62
+
+User : BIGLTH
+
+Pass : BI$erv@dmin
+
+============ TNB SRC =======================
+DEV
+IP : 172.255.152.89
+Username : bialltnb
+PW : bi4@LLtnb
+
+PRD
+IP : 192.168.2.38
+Username : bialltnb
+PW : bi4@LLtnb
+
+NCB Server
+IP : 192.168.2.89\SQLEXPRESS
+Username : bijuser
+Password : biuser
+
+============ SVN ===========================
+https://172.255.152.55/svn/TADS
+user --> suppakorn.c
+password --> welcome@BI
+
+============Bella Dati======================
+PRD
+http://analytics.tnbfinance.com/customlogin/1
+username : admin
+password : @na!yticTN3
+
+http://172.255.152.60:8282/en/bi
+username : bi.glth@grouplease.co.th
+
+Password : @na!yticTN3
+
+Dev
+http://172.255.152.56:8282/bi/
+username : suppakorn.c@grouplease.co.th
+Password : welc0me@BD
+
+admin
+username : bi.glth@grouplease.co.th
+
+Password : bi4@llBD
+
+Username : bi.dev2@grouplease.co.th
+Password : 
+BId3ve!0p
+
+==============Jenkin========================
+http://172.255.152.55:8080/job/EXCOM_MRT/
+username : admin
+Password : welcome@JK
+
+
